@@ -6,9 +6,9 @@ Para ello se utilizo:
 * JavaScript
 * HTML
 * CSS
----
 
-![Peview]( "Form")
 ---
+![Preview Form Validation](https://github.com/Corvier/form-validation/blob/main/public/img/form-validation.png "Form")
 
-### *By*: **[Víctor José Ruiz Herrera](https://github.com/Corvier"ir al perfil de Github")**
+---
+### *By*: **[Víctor José Ruiz Herrera](https://github.com/Corvier "ir al perfil de Github")**
