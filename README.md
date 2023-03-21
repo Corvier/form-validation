@@ -1,7 +1,7 @@
 # form-validation
 
 ## Descripción:
-Formulario que tiene validados todos los campos mediante JavaScript.
+Formulario que tiene validados todos los campos mediante JavaScript. \
 Para ello se utilizo:
 * JavaScript
 * HTML
